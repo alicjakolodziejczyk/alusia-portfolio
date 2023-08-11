@@ -1,0 +1,66 @@
+[
+  {
+    "name": "C1 English Certificate",
+    "description": "At the end of 2021 I've passed the LanguageCert Level 2 Certificate in ESOL International (Listening, Reading)",
+    "picture": "e-cert.png",
+    "url": "",
+    "certificate": "https://drive.google.com/file/d/1Zr0uve4mvOxXi71bKkd3RMW9s74rUDmS/view?usp=sharing",
+    "date": "December 2021"
+  },
+  {
+    "name": "Top 6 in Lablab.ai hackathon",
+    "description": "Through winter break I've attended one week online hackathon organized by lablab.ai. With my team we've created a pitch presentation and demo application of FocusX an AI based tool for learning. The project was an success and was chosen as one of the six projects that were presented at the live final event and was compeating for the place in accelerator programme. The project was an amazing experience and taught me a lot about programming in React Native as it was my role to develop an application. You can see the demo of the app as well as part of the code written by me above in FocusX project card.",
+    "picture": "FocusX.png",
+    "url": "https://lablab.ai/event/ai-startup-hackathon/inclusive-solutions/focusx",
+    "certificate": "https://lablab.ai/u/@alicjakolodziejczyk549/cleybeplm002i9p0sgc3u0v30",
+    "date": "February 2023"
+  },
+  {
+    "name": "Finallist in HackVision Hackathon",
+    "description": "HackVision's local stage was taking place at my University, so I decided sign up. The goal of the hackathon was to prepare a pitch deck of our solution to one of subjects presented with the use of Copernicus satellite data. My team has come up with an idea of the app that would plan for the user etertaining walks plan that would use satellite data to choose a path that will be possibly with the cleanest air possible at the area. The app would be using gamification and AR technology to etertain the user and encourage to get out of the couch and move",
+    "picture": "hackvision.jpg",
+    "url": "",
+    "certificate": "https://drive.google.com/file/d/1_hq00EKje4FeE-S9o9ZMK6LxSDMRhcpX/view?usp=sharing",
+    "date": "March 2023"
+  },
+  {
+    "name": "Leading workshops for highschool students",
+    "description": "As a part of my activity in Science Club I have had an opportunity to twice prepare and lead workshop for highschool students. Both workshops were dedicated to showcasing python's Pygame Zero Library and that simple game development is not that complicated. This experience taugth me how to prepare teaching materials for students to make tham understandable for anyone no matter what their experience is. Also while leading workshops I was suprised by my ability to quickly spot the errors in the students code as well as patience and working in a little chaos. Now I am preparing for another workshops. This time they will be dedicated to the use of generative AI.",
+    "picture": "python-workshops.jpg",
+    "url": "",
+    "certificate": "",
+    "date": "November 2022, March 2023"
+  },
+  {
+    "name": "Member of University Science Club TeamWeb",
+    "description": "",
+    "picture": "",
+    "url": "",
+    "certificate": "",
+    "date": "October 2022 - present"
+  },
+  {
+    "name": "Attending Conferences",
+    "description": "I've attended few tech conferences, but the one that made such an incredible impact on my life was Perspektywy Women in Tech 2023. This event ensured me what is the most importat for me both in work as well as in the free time - surround myself by passionate people from whom I can learn from without even noticing it. Every person I've talked to was so into their work and I want to find a working place where I could fell that too.",
+    "picture": "women-in-tech-2023.jpg",
+    "url": "",
+    "certificate": "",
+    "date": ""
+  },
+  {
+    "name": "Google Cloud Data & Buissness Intelligence",
+    "description": "The course by DaftAcademy and Google Cloud was a geat introduction to using Google Cloud Platform. Since then I've started using cloud as a day to day tool. I also used Azure and AWS cloud, but taking this course definitely made GCP my first go to.",
+    "picture": "gcp-cert.png",
+    "url": "https://www.cloudskillsboost.google/public_profiles/12f25e19-82df-4974-8547-a01e0f15d6b8",
+    "certificate": "https://drive.google.com/file/d/1CtFBr90I1jub4g3mgQ9uRTF3p_wzxY0U/view?usp=sharing",
+    "date": "Spring 2022"
+  },
+  {
+    "name": "Seeds for the Future",
+    "description": "I've graduated seeds for the future program by Huawei and it was my first experience with so many talented and passionate people in the same place. Besides the knowledge that I gained about new technologies and creating and pitching a product the programe was when I for the first time started to getting to know what I want to do in the future and where my career may lead me. This was an amazing experience that created such an impact on my live.",
+    "picture": "seeds3.jpg",
+    "url": "",
+    "certificate": "https://drive.google.com/file/d/13FcdFY8el_ihwjFDxHoK2KynyHWkW-Nc/view?usp=sharing",
+    "date": "November 2022"
+  }
+]

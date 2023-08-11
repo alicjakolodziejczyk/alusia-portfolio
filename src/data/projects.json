@@ -1,0 +1,124 @@
+[
+  {
+    "name": "MeloX",
+    "description": "MeloX is a music player app for Web. It is a full-stack application that allows users to listen to music. The app is still in development. I am currently working on adding new features and improving the existing ones as well as creating mobile client using React Native.",
+    "tech": ["JavaScript", "Node.js", "Express.js", "MongoDB", "React", "Redux", "TailwindCSS", "Material UI"],
+    "github": "https://github.com/alicjakolodziejczyk/MeloX",
+    "url": "",
+    "picture": "",
+    "date": "July 2023"
+  },
+  {
+    "name": "FocusX",
+    "description": "x",
+    "tech": [
+      "React Native",
+      "JavaScript",
+      "Firebase"
+    ],
+    "github": "https://github.com/alicjakolodziejczyk/FocusX",
+    "url": "https://expo.dev/@aliceinreallife/FocusX?release-channel=default",
+    "picture": "",
+    "date": "February 2023"
+  },
+  {
+    "name": "PixelHunt",
+    "description": "xx",
+    "tech": [
+      "React Native",
+      "JavaScript",
+      "Firebase"
+    ],
+    "github": "https://github.com/alicjakolodziejczyk/PixelHunt",
+    "url": "",
+    "picture": "",
+    "date": "April 2023"
+  },
+  {
+    "name": "Erasmus Page",
+    "description": "Simple fullstack web application that I created for signing up for an evaluation event after the Erasmus+ program. The app is signing up users using Mailchimp API.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "Mailchimp API"
+    ],
+    "github": "https://github.com/alicjakolodziejczyk/erasmus-page",
+    "url": "https://erasmus-meet-up.herokuapp.com/",
+    "picture": "erasmus.PNG",
+    "date": "November 2022"
+  },
+  {
+    "name": "SwiftUI ToDoList",
+    "description": "",
+    "tech": [
+      "Swift",
+      "SwiftUI",
+      "Firebase"
+    ],
+    "github": "x",
+    "url": "",
+    "picture": "",
+    "date": "June 2023"
+  },
+  {
+    "name": "CS effects of learning data analysis and visualization",
+    "description": "x",
+    "tech": [
+      "JavaScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "React",
+      "React Bootstrap",
+      "ReGraph"
+    ],
+    "github": "https://github.com/alicjakolodziejczyk/Projekt_IS",
+    "url": "",
+    "picture": "",
+    "date": "June 2023"
+  },
+  {
+    "name": "Tik-Tak-Toe",
+    "description": "Web page of the classic game of Tic-Tac-Toe. I've built this project to practice my JavaScript skills on summmer holiday.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "github": "https://github.com/alicjakolodziejczyk/Tic-tac-toe",
+    "url": "https://alicjakolodziejczyk.github.io/Tic-tac-toe/",
+    "picture": "tik-tak-toe.PNG",
+    "date": "August 2022"
+  },
+  {
+    "name": "Bussybee",
+    "description": "Fullstack web application for managing tasks. I've built this project as a final project for the Web Application Development class at 3rd year of my computer science degree. The app is built using MVC architecture.",
+    "tech": [
+      "PHP",
+      "HTML",
+      "CSS",
+      "SQL"
+    ],
+    "github": "https://github.com/alicjakolodziejczyk/PHP-Fullstack-ToDoApp",
+    "url": "",
+    "picture": "bussybee.PNG",
+    "date": "February 2023"
+  },
+  {
+    "name": "Old Portfolio Website",
+    "description": "Simple one page portfolio website built as a final project for the Basics of Web Development class at 2nd year of my computer science degree.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "jQuery"
+    ],
+    "github": "https://github.com/alicjakolodziejczyk/Portfolio-website",
+    "url": "https://alicjakolodziejczyk.github.io/Portfolio-website/#about",
+    "picture": "old-portfolio.PNG",
+    "date": "June 2022"
+  }
+]
