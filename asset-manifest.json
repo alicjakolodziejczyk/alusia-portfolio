@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alusia-portfolio/static/css/main.8574506e.css",
+    "main.js": "/alusia-portfolio/static/js/main.ba0204c3.js",
+    "static/js/787.fcadfe9c.chunk.js": "/alusia-portfolio/static/js/787.fcadfe9c.chunk.js",
+    "static/media/GlitchGoblin-2O87v.ttf": "/alusia-portfolio/static/media/GlitchGoblin-2O87v.37ee9c9361643bfc72ea.ttf",
+    "index.html": "/alusia-portfolio/index.html",
+    "main.8574506e.css.map": "/alusia-portfolio/static/css/main.8574506e.css.map",
+    "main.ba0204c3.js.map": "/alusia-portfolio/static/js/main.ba0204c3.js.map",
+    "787.fcadfe9c.chunk.js.map": "/alusia-portfolio/static/js/787.fcadfe9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8574506e.css",
+    "static/js/main.ba0204c3.js"
+  ]
+}
