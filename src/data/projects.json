@@ -5,12 +5,12 @@
     "tech": ["JavaScript", "Node.js", "Express.js", "MongoDB", "React", "Redux", "TailwindCSS", "Material UI"],
     "github": "https://github.com/alicjakolodziejczyk/MeloX",
     "url": "",
-    "picture": "",
+    "picture": "melox.PNG",
     "date": "July 2023"
   },
   {
     "name": "FocusX",
-    "description": "x",
+    "description": "This app was created as a mvp for Lablab.ai startup hackathon I took part in. It's an app that right now is preparing study materials as well as it's enabling asking questions to the text provided by the user. I've created mobile client with react native and it was the first time I've used it. I've managed to code the mobile client in 4 days. You can see the code in my github repo.",
     "tech": [
       "React Native",
       "JavaScript",
@@ -18,21 +18,8 @@
     ],
     "github": "https://github.com/alicjakolodziejczyk/FocusX",
     "url": "https://expo.dev/@aliceinreallife/FocusX?release-channel=default",
-    "picture": "",
+    "picture": "focusx.png",
     "date": "February 2023"
-  },
-  {
-    "name": "PixelHunt",
-    "description": "xx",
-    "tech": [
-      "React Native",
-      "JavaScript",
-      "Firebase"
-    ],
-    "github": "https://github.com/alicjakolodziejczyk/PixelHunt",
-    "url": "",
-    "picture": "",
-    "date": "April 2023"
   },
   {
     "name": "Erasmus Page",
@@ -51,21 +38,8 @@
     "date": "November 2022"
   },
   {
-    "name": "SwiftUI ToDoList",
-    "description": "",
-    "tech": [
-      "Swift",
-      "SwiftUI",
-      "Firebase"
-    ],
-    "github": "x",
-    "url": "",
-    "picture": "",
-    "date": "June 2023"
-  },
-  {
     "name": "CS effects of learning data analysis and visualization",
-    "description": "x",
+    "description": "This app was created as final project for my System Integration class. It's a fullstack app that's enabling CS student to visualise the knowledge growth through out the years of studying. It's displaying relations between subjects and study effects with the use of graphs, progress bars, tables and correlation matrix. It's also enabling filtering the data for easier use.",
     "tech": [
       "JavaScript",
       "Node.js",
@@ -77,7 +51,7 @@
     ],
     "github": "https://github.com/alicjakolodziejczyk/Projekt_IS",
     "url": "",
-    "picture": "",
+    "picture": "is.PNG",
     "date": "June 2023"
   },
   {
