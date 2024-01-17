@@ -1,3 +1,29 @@
+# alusia.tech - my portfolio website
+
+Welcome to my personal portfolio website, a dedicated space I've created to showcase my skills and add a personalized touch to my future job applications. This site is more than just a portfolio; it's a reflection of my journey and growth as a professional.
+
+## Project Overview
+
+Developed using TypeScript and React, this website was initially conceived as a practice ground to refine my TypeScript skills. Over time, it has evolved into a comprehensive portfolio and a platform to share my professional insights and achievements.
+
+### Key Features
+
+- **TypeScript and React**: Utilizing these modern technologies, the website offers a robust and dynamic user experience, demonstrating my proficiency in front-end development.
+- **Blog Page**: A recent addition, the blog page is a space where I share my thoughts, experiences, and notable achievements, providing a deeper insight into my professional life.
+- **Firebase Integration**: Leveraging Firebase's Firestore and Storage, the website ensures that content updates are seamless and do not require redeployment, showcasing my skills in database management and cloud services.
+
+### Purpose and Vision
+
+The primary goal of this website is to create a unique and engaging platform where I can not only display my technical skills but also connect with potential employers and peers in the industry. It serves as a living document of my professional journey, continually updated with new experiences and learnings.
+
+### Feedback and Contributions
+
+I hope you find this website informative and insightful. Your feedback is invaluable, and I welcome any suggestions or contributions you may have. Feel free to explore, and thank you for visiting!
+
+---
+
+Enjoy exploring my portfolio, and don't hesitate to reach out if you have any questions or would like to discuss potential collaborations.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
